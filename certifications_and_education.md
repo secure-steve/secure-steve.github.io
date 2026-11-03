@@ -4,7 +4,7 @@ layout: default
 
 # Certifications & Education
 
-Here is a summary of my professional certifications and academic background in information technology, systems administration, and identity security.
+Working in Cybersecurity does not come without continious life long learning. Here is a summary of my professional certifications and academic background in information technology, systems administration, and identity security.
 
 ## Professional Certifications
 
