@@ -42,5 +42,8 @@ Here is a summary of my professional certifications and academic background in i
   * **Institution:** Stark State College
   * **Focus:** Comprehensive and hands-on education covering cybersecurity fundamentals, networking fundamentals, Windows Server administration, Linux administration, operating system security.
 
+    ![Diploma](./certifications/diploma.png)
+    ![Distinction](./certifications/distinction.png)
+
 ---
 [← Back to Home](index.md)
