@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Steven Hudy | IAM & Cybersecurity Portfolio
 ---
 
 # Steven Hudy
